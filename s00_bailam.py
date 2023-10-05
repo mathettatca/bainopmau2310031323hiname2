@@ -10,5 +10,6 @@ Tra ve cau chao 'Hi'
 Hi
 """
 
+
 def hi():
-  return 'Hi'
+  return 'Hi  '
